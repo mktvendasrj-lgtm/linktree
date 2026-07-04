@@ -12,7 +12,7 @@
       "url": "https://youtube.com/...",
       "icon": {
         "type": "asset",
-        "src": "https://raw.githubusercontent.com/mktvendasrj-lgtm/linktree/main/assets/youtube.png"
+        "src": "https://raw.githubusercontent.com/mktvendasrj-lgtm/linktree/main/assets/Youtube.png"
       }
     },
     {
@@ -28,7 +28,7 @@
       "url": "https://instagram.com/...",
       "icon": {
         "type": "asset",
-        "src": "https://raw.githubusercontent.com/mktvendasrj-lgtm/linktree/main/assets/instagram.png"
+        "src": "https://raw.githubusercontent.com/mktvendasrj-lgtm/linktree/main/assets/Instagram.png"
       }
     }
   ]
