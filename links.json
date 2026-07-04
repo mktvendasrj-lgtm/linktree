@@ -34,6 +34,13 @@
       "icon": {
         "src": "https://raw.githubusercontent.com/mktvendasrj-lgtm/linktree/main/assets/tiktok.png"
       }
+    },
+     {
+      "title": "Spotify",
+      "url": "https://open.spotify.com/playlist/2VUEBFUYpbjg6izvnWp1p2?si=ZimyshKoTp-lXFLM9lrQMA",
+      "icon": {
+        "src": "https://raw.githubusercontent.com/mktvendasrj-lgtm/linktree/main/assets/spotify.png"
+      }
     }
   ]
 }
