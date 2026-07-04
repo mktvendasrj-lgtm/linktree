@@ -2,7 +2,7 @@
   "profile": {
     "name": "Leandro Lopes",
     "title": "Analista de Sistemas e Desenvolvedor",
-    "photo": "assets/perfil.jpg",
+    "photo": "https://raw.githubusercontent.com/mktvendasrj-lgtm/linktree/main/assets/perfil.jpg",
     "bio": "Transformando ideias em sistemas."
   },
 
@@ -12,7 +12,7 @@
       "url": "https://youtube.com/...",
       "icon": {
         "type": "asset",
-        "src": "youtube.png"
+        "src": "https://raw.githubusercontent.com/mktvendasrj-lgtm/linktree/main/assets/youtube.png"
       }
     },
     {
@@ -20,7 +20,7 @@
       "url": "https://...",
       "icon": {
         "type": "asset",
-        "src": "portifolio.jpg"
+        "src": "https://raw.githubusercontent.com/mktvendasrj-lgtm/linktree/main/assets/portifolio.jpg"
       }
     },
     {
@@ -28,7 +28,7 @@
       "url": "https://instagram.com/...",
       "icon": {
         "type": "asset",
-        "src": "instagram.png"
+        "src": "https://raw.githubusercontent.com/mktvendasrj-lgtm/linktree/main/assets/instagram.png"
       }
     }
   ]
