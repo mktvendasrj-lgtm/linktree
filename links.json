@@ -1,0 +1,26 @@
+{
+  "profile": {
+    "name": "Leandro Lopes",
+    "title": "Desenvolvedor Web",
+    "photo": "perfil.jpg",
+    "bio": "Transformando ideias em sistemas."
+  },
+
+  "links": [
+    {
+      "title": "YouTube",
+      "icon": "youtube",
+      "url": "https://youtube.com/..."
+    },
+    {
+      "title": "Portfólio",
+      "icon": "briefcase",
+      "url": "https://..."
+    },
+    {
+      "title": "Instagram",
+      "icon": "instagram",
+      "url": "https://instagram.com/..."
+    }
+  ]
+}
