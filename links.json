@@ -7,6 +7,13 @@
   },
 
   "links": [
+     {
+      "title": "Portfólio",
+      "url": "https://leodashboard.netlify.app/",
+      "icon": {
+        "src": "https://raw.githubusercontent.com/mktvendasrj-lgtm/linktree/main/assets/portfolio.png"
+      }
+    },
     {
       "title": "YouTube",
       "url": "https://www.youtube.com/@Skorpion_Games",
@@ -15,17 +22,17 @@
       }
     },
     {
-      "title": "Portfólio",
-      "url": "https://leodashboard.netlify.app/",
-      "icon": {
-        "src": "https://raw.githubusercontent.com/mktvendasrj-lgtm/linktree/main/assets/portfolio.png"
-      }
-    },
-    {
       "title": "Instagram",
       "url": "https://www.instagram.com/leolopez_rj/",
       "icon": {
         "src": "https://raw.githubusercontent.com/mktvendasrj-lgtm/linktree/main/assets/instagram.png"
+      }
+    },
+    {
+      "title": "TikTok",
+      "url": "https://www.tiktok.com/@skorpiongames",
+      "icon": {
+        "src": "https://raw.githubusercontent.com/mktvendasrj-lgtm/linktree/main/assets/tiktok.png"
       }
     }
   ]
