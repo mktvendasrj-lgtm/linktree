@@ -2,25 +2,34 @@
   "profile": {
     "name": "Leandro Lopes",
     "title": "Desenvolvedor Web",
-    "photo": "perfil.jpg",
+    "photo": "assets/perfil.jpg",
     "bio": "Transformando ideias em sistemas."
   },
 
   "links": [
     {
       "title": "YouTube",
-      "icon": "youtube",
-      "url": "https://youtube.com/..."
+      "url": "https://youtube.com/...",
+      "icon": {
+        "type": "asset",
+        "src": "youtube.png"
+      }
     },
     {
       "title": "Portfólio",
-      "icon": "briefcase",
-      "url": "https://..."
+      "url": "https://...",
+      "icon": {
+        "type": "asset",
+        "src": "portfolio.png"
+      }
     },
     {
       "title": "Instagram",
-      "icon": "instagram",
-      "url": "https://instagram.com/..."
+      "url": "https://instagram.com/...",
+      "icon": {
+        "type": "asset",
+        "src": "instagram.png"
+      }
     }
   ]
 }
